@@ -1,0 +1,2 @@
+This file contains all error messages during the simulation
+
